@@ -1,0 +1,32 @@
+nav{
+    background-color: red;
+    justify-content: center;
+    display:flex;
+    border :2px solid rgb(120, 5, 5);
+    height:75px;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: rgb(193, 99, 171);
+    margin:0px;
+}
+.submission{
+    background-color: yellow;
+    height:250px;
+    width:50%;
+    margin :auto ;
+    margin-top:10px;
+    border:2px solid cyan;
+    display :flex;
+    align-items:center;
+    justify-content: center;
+}
+#mylist{
+ /* background-color: blueviolet;*/
+ margin-top: 25px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
